@@ -1,0 +1,25 @@
+{
+    "firstName": "",
+    "lastName": "",
+    "emailAddress": "",
+    "phoneNumber": "",
+    "address": {
+        "streetAddress": "",
+        "unitNumber": "",
+        "city": "",
+        "state": "",
+        "zipCode": {
+            "control": "input",
+            "pattern": "\\d+{5}(-\\d+{4})?"
+        }
+    },
+    "addressType": {
+        "control": "select",
+        "options": ["Home", "Business"]
+    },
+    "veteran": false,
+    "profession": "",
+    "bio": {
+        "control": "textarea"
+    }
+}

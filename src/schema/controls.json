@@ -1,0 +1,67 @@
+{
+    "controlType": [
+        "input",
+        "textarea",
+        "select",
+        "button"
+    ],
+    "inputType": [
+        "text",
+        "number",
+        "email",
+        "file",
+        "checkbox",
+        "radio",
+        "button",
+        "submit",
+        "reset"
+    ],
+    "buttonType": [
+        "button",
+        "submit",
+        "reset"
+    ],
+    "input": {
+        "label": "",
+        "id": "",
+        "name": "",
+        "value": "",
+        "type": "",
+        "pattern": "",
+        "disabled": false,
+        "readOnly": false,
+        "checked": false,
+        "className": "",
+        "defaultValue": "",
+        "checkOptions": []
+    },
+    "textarea": {
+        "label": "",
+        "id": "",
+        "name": "",
+        "value": "",
+        "disabled": false,
+        "readOnly": false,
+        "className": "",
+        "defaultValue": ""
+    },
+    "select": {
+        "label": "",
+        "id": "",
+        "name": "",
+        "disabled": false,
+        "readOnly": false,
+        "className": "",
+        "defaultValue": "",
+        "options": []
+    },
+    "button": {
+        "label": "",
+        "id": "",
+        "name": "",
+        "value": "",
+        "type": "",
+        "disabled": false,
+        "className": ""
+    }
+}
